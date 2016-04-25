@@ -1,5 +1,12 @@
+'''
+easyPROKKAv version 0.1
+Developed by Inês Mendes
+'''
+
 import sys
 import os
+
+
 
 try:
 	readsDirectory=sys.argv[1]
